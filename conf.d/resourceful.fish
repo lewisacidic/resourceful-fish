@@ -5,7 +5,7 @@
 # Copyright (c) 2022 Rich Lewis
 # MIT License
 
-set -g __resourceful_fish_version 0.1.0
+set -g __resourceful_fish_version 0.1.1
 
 if set -q XDG_CONFIG_HOME
   set -g __resourceful_fish_config_path $XDG_CONFIG_HOME/fish/config.fish
