@@ -19,4 +19,5 @@ function resourceful_unininstall --on-event resourceful_uninstall
   set -e __resourceful_fish_version
   set -e __resourceful_fish_config_path
   set -e __resourceful_fish_last_updated
+  functions -e __resourceful_fish_resource_config
 end
