@@ -7,7 +7,7 @@ A simple fish plugin to re-source your config.fish on edit.
 Using [`fisher`](https://github.com/jorgebucaran/fisher):
 
 ```shell
-fisher install lewisacidic/resourceful.fish
+fisher install lewisacidic/resourceful-fish
 ```
 
 ## Usage
